@@ -27,5 +27,4 @@ Then execute
 To launch JupyterLab
 
 ---
-Alternatively: [Anaconda](https://www.anaconda.com/) (a data science platform that includes all the required software) can be used to run these notebooks. The following [Software Setup](https://swcarpentry.github.io/python-novice-inflammation/instructor/index.html#setup) 
-
+Alternatively: [Anaconda](https://www.anaconda.com/) (a data science platform that includes all the required software) can be used to run these notebooks. Here's a link to these [setup instructions](https://swcarpentry.github.io/python-novice-inflammation/instructor/index.html#setup).
